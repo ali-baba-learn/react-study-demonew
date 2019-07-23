@@ -5,7 +5,9 @@
  * LICENSE file in the root directory of this source tree.
  *
  * @flow
+ * eslint-disable import/first
  */
+
 
 import {precacheFiberNode, updateFiberProps} from './ReactDOMComponentTree';
 import {

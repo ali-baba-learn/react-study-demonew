@@ -1,0 +1,8 @@
+# Third party
+node_modules
+
+# Not written by hand
+src/packages/
+
+# Build products
+build/

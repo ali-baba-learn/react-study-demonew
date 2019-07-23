@@ -1,5 +1,5 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+import React, {Component} from '@packages/react';
+import ReactDOM from '@packages/react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
